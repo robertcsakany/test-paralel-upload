@@ -1,0 +1,30 @@
+{
+    "timestamp" : 1577466475894,
+    "revision" : {
+        "HEAD" : "c86ee4cc4332cdcf89b9fb292f2596dbebda5926",
+        "currentBranch" : "refs/heads/develop",
+        "knownReferences" : null
+    },
+    "properties" : {
+        "TARGET_PLATFORM_VERSION_MAXIMUM" : "null",
+        "java.version" : "1.8.0_232",
+        "user.dir" : "/Users/robson/Project/judo-ng/eclipse/judo-epp-common",
+        "os.arch" : "x86_64",
+        "RELEASE" : "null",
+        "BUILD_ALIAS" : "null",
+        "JOB_NAME" : "null",
+        "os.version" : "10.15.2",
+        "BUILD_NUMBER" : "null",
+        "TARGET_PLATFORM_VERSION" : "null",
+        "NODE_NAME" : "null",
+        "HOSTNAME" : "Roberts-iMac.local",
+        "java.vendor" : "Azul Systems, Inc.",
+        "os.name" : "Mac OS X",
+        "ZIPSUFFIX" : "null",
+        "WORKSPACE" : "/Users/robson/Project/judo-ng/eclipse/judo-epp-common"
+    },
+    "upstream" : {
+        "http://download.eclipse.org/releases/2019-06" : "Build info file not accessible: http://download.eclipse.org/releases/2019-06/buildinfo.json",
+        "http://download.eclipse.org/cbi/updates/license/" : "Build info file not accessible: http://download.eclipse.org/cbi/updates/license/buildinfo.json"
+    }
+}

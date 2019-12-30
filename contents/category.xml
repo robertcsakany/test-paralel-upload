@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description>
+      To install these features, point Eclipse at this site.
+   </description>
+   <feature id="hu.blackbelt.judo.eclipse.epp.package.common.feature" url="features/hu.blackbelt.judo.eclipse.epp.package.common.feature_4.14.0.20191209-1925.jar" version="4.14.0.20191209-1925">
+      <category name="epp-common"/>
+   </feature>
+   <feature id="com.ianbrandt.tools.m2e.mdp.feature" url="features/com.ianbrandt.tools.m2e.mdp.feature_0.0.4.201409291703.jar" version="0.0.4.201409291703">
+      <category name="m2e"/>
+   </feature>
+   <feature id="de.jcup.asciidoctor.converter" url="features/de.jcup.asciidoctor.converter_1.0.3.jar" version="1.0.3">
+      <category name="asciidoctor"/>
+   </feature>
+   <feature id="de.jcup.asciidoctoreditor" url="features/de.jcup.asciidoctoreditor_2.0.3.jar" version="2.0.3">
+      <category name="asciidoctor"/>
+   </feature>
+   <feature id="org.eclipse.acceleo.query" url="features/org.eclipse.acceleo.query_6.0.8.201902261618.jar" version="6.0.8.201902261618">
+      <category name="acceleo"/>
+   </feature>
+   <feature id="org.eclipse.acceleo.query.source" url="features/org.eclipse.acceleo.query.source_6.0.8.201902261618.jar" version="6.0.8.201902261618">
+      <category name="acceleo"/>
+   </feature>
+   <feature id="org.eclipse.acceleo.ui.interpreter" url="features/org.eclipse.acceleo.ui.interpreter_3.7.8.201902261618.jar" version="3.7.8.201902261618">
+      <category name="acceleo"/>
+   </feature>
+   <feature id="org.eclipse.acceleo.ui.interpreter.source" url="features/org.eclipse.acceleo.ui.interpreter.source_3.7.8.201902261618.jar" version="3.7.8.201902261618">
+      <category name="acceleo"/>
+   </feature>
+   <feature id="org.eclipse.draw2d" url="features/org.eclipse.draw2d_3.10.100.201606061308.jar" version="3.10.100.201606061308">
+      <category name="eclipse"/>
+   </feature>
+   <feature id="org.eclipse.e4.rcp" url="features/org.eclipse.e4.rcp_4.14.0.v20191204-0601.jar" version="4.14.0.v20191204-0601">
+      <category name="e4"/>
+   </feature>
+   <feature id="org.eclipse.e4.rcp.source" url="features/org.eclipse.e4.rcp.source_4.14.0.v20191204-0601.jar" version="4.14.0.v20191204-0601">
+      <category name="e4"/>
+   </feature>
+   <feature id="org.eclipse.ecf.core.feature" url="features/org.eclipse.ecf.core.feature_1.5.400.v20191023-2007.jar" version="1.5.400.v20191023-2007">
+      <category name="ecf"/>
+   </feature>
+   <feature id="org.eclipse.ecf.core.feature.source" url="features/org.eclipse.ecf.core.feature.source_1.5.400.v20191023-2007.jar" version="1.5.400.v20191023-2007">
+      <category name="ecf"/>
+   </feature>
+   <feature id="org.eclipse.ecf.core.ssl.feature" url="features/org.eclipse.ecf.core.ssl.feature_1.1.300.v20191023-2007.jar" version="1.1.300.v20191023-2007">
+      <category name="ecf"/>
+   </feature>
+   <feature id="org.eclipse.ecf.core.ssl.feature.source" url="features/org.eclipse.ecf.core.ssl.feature.source_1.1.300.v20191023-2007.jar" version="1.1.300.v20191023-2007">
+      <category name="ecf"/>
+   </feature>
+   <feature id="org.eclipse.ecf.filetransfer.feature" url="features/org.eclipse.ecf.filetransfer.feature_3.14.600.v20191023-2007.jar" version="3.14.600.v20191023-2007">
+      <category name="ecf"/>
+   </feature>
+   <feature id="org.eclipse.ecf.filetransfer.feature.source" url="features/org.eclipse.ecf.filetransfer.feature.source_3.14.600.v20191023-2007.jar" version="3.14.600.v20191023-2007">
+      <category name="ecf"/>
+   </feature>
+   <feature id="org.eclipse.ecf.filetransfer.httpclient45.feature" url="features/org.eclipse.ecf.filetransfer.httpclient45.feature_1.0.100.v20191024-1546.jar" version="1.0.100.v20191024-1546">
+      <category name="ecf"/>
+   </feature>
+   <feature id="org.eclipse.ecf.filetransfer.httpclient45.feature.source" url="features/org.eclipse.ecf.filetransfer.httpclient45.feature.source_1.0.100.v20191024-1546.jar" version="1.0.100.v20191024-1546">
+      <category name="ecf"/>
+   </feature>
+   <feature id="org.eclipse.ecf.filetransfer.ssl.feature" url="features/org.eclipse.ecf.filetransfer.ssl.feature_1.1.200.v20191024-1546.jar" version="1.1.200.v20191024-1546">
+      <category name="ecf"/>
+   </feature>
+   <feature id="org.eclipse.ecf.filetransfer.ssl.feature.source" url="features/org.eclipse.ecf.filetransfer.ssl.feature.source_1.1.200.v20191024-1546.jar" version="1.1.200.v20191024-1546">
+      <category name="ecf"/>
+   </feature>
+   <feature id="org.eclipse.eef.ext.widgets.reference.feature" url="features/org.eclipse.eef.ext.widgets.reference.feature_2.1.3.201909051307.jar" version="2.1.3.201909051307">
+      <category name="eef"/>
+   </feature>
+   <feature id="org.eclipse.eef.ext.widgets.reference.feature.source" url="features/org.eclipse.eef.ext.widgets.reference.feature.source_2.1.3.201909051307.jar" version="2.1.3.201909051307">
+      <category name="eef"/>
+   </feature>
+   <feature id="org.eclipse.eef.sdk.feature" url="features/org.eclipse.eef.sdk.feature_2.1.3.201909051307.jar" version="2.1.3.201909051307">
+      <category name="eef"/>
+   </feature>
+   <feature id="org.eclipse.eef.sdk.feature.source" url="features/org.eclipse.eef.sdk.feature.source_2.1.3.201909051307.jar" version="2.1.3.201909051307">
+      <category name="eef"/>
+   </feature>
+   <feature id="org.eclipse.egit" url="features/org.eclipse.egit_5.6.0.201912101111-r.jar" version="5.6.0.201912101111-r">
+      <category name="egit"/>
+   </feature>
+   <feature id="org.eclipse.egit.mylyn" url="features/org.eclipse.egit.mylyn_5.6.0.201912101111-r.jar" version="5.6.0.201912101111-r">
+      <category name="egit"/>
+   </feature>
+   <feature id="org.eclipse.egit.source" url="features/org.eclipse.egit.source_5.6.0.201912101111-r.jar" version="5.6.0.201912101111-r">
+      <category name="egit"/>
+   </feature>
+   <feature id="org.eclipse.emf" url="features/org.eclipse.emf_2.20.0.v20191028-0905.jar" version="2.20.0.v20191028-0905">
+      <category name="emf"/>
+   </feature>
+   <feature id="org.eclipse.emf.codegen" url="features/org.eclipse.emf.codegen_2.19.0.v20190821-1536.jar" version="2.19.0.v20190821-1536">
+      <category name="emf"/>
+   </feature>
+   <feature id="org.eclipse.emf.codegen.ecore" url="features/org.eclipse.emf.codegen.ecore_2.20.0.v20191012-0918.jar" version="2.20.0.v20191012-0918">
+      <category name="emf"/>
+   </feature>
+   <feature id="org.eclipse.emf.codegen.ecore.source" url="features/org.eclipse.emf.codegen.ecore.source_2.20.0.v20191012-0918.jar" version="2.20.0.v20191012-0918">
+      <category name="emf"/>
+   </feature>
+   <feature id="org.eclipse.emf.codegen.ecore.ui" url="features/org.eclipse.emf.codegen.ecore.ui_2.20.0.v20190919-0941.jar" version="2.20.0.v20190919-0941">
+      <category name="emf"/>
+   </feature>
+   <feature id="org.eclipse.emf.codegen.ecore.ui.source" url="features/org.eclipse.emf.codegen.ecore.ui.source_2.20.0.v20190919-0941.jar" version="2.20.0.v20190919-0941">
+      <category name="emf"/>
+   </feature>
+   <feature id="org.eclipse.emf.codegen.source" url="features/org.eclipse.emf.codegen.source_2.19.0.v20190821-1536.jar" version="2.19.0.v20190821-1536">
+      <category name="emf"/>
+   </feature>
+   <feature id="org.eclipse.emf.codegen.ui" url="features/org.eclipse.emf.codegen.ui_2.20.0.v20191028-0905.jar" version="2.20.0.v20191028-0905">
+      <category name="emf"/>
+   </feature>
+   <feature id="org.eclipse.emf.codegen.ui.source" url="features/org.eclipse.emf.codegen.ui.source_2.20.0.v20191028-0905.jar" version="2.20.0.v20191028-0905">
+      <category name="emf"/>
+   </feature>
+   <feature id="org.eclipse.emf.common" url="features/org.eclipse.emf.common_2.17.0.v20190920-0401.jar" version="2.17.0.v20190920-0401">
+      <category name="emf"/>
+   </feature>
+   <feature id="org.eclipse.emf.common.source" url="features/org.eclipse.emf.common.source_2.17.0.v20190920-0401.jar" version="2.17.0.v20190920-0401">
+      <category name="emf"/>
+   </feature>
+   <feature id="org.eclipse.emf.common.ui" url="features/org.eclipse.emf.common.ui_2.17.0.v20190507-0402.jar" version="2.17.0.v20190507-0402">
+      <category name="emf"/>
+   </feature>
+   <feature id="org.eclipse.emf.common.ui.source" url="features/org.eclipse.emf.common.ui.source_2.17.0.v20190507-0402.jar" version="2.17.0.v20190507-0402">
+      <category name="emf"/>
+   </feature>
+   <feature id="org.eclipse.emf.converter" url="features/org.eclipse.emf.converter_2.15.0.v20190418-1022.jar" version="2.15.0.v20190418-1022">
+      <category name="emf"/>
+   </feature>
+   <feature id="org.eclipse.emf.converter.source" url="features/org.eclipse.emf.converter.source_2.15.0.v20190418-1022.jar" version="2.15.0.v20190418-1022">
+      <category name="emf"/>
+   </feature>
+   <feature id="org.eclipse.emf.databinding" url="features/org.eclipse.emf.databinding_1.7.0.v20190323-1059.jar" version="1.7.0.v20190323-1059">
+      <category name="emf"/>
+   </feature>
+   <feature id="org.eclipse.emf.databinding.edit" url="features/org.eclipse.emf.databinding.edit_1.7.0.v20190323-1059.jar" version="1.7.0.v20190323-1059">
+      <category name="emf"/>
+   </feature>
+   <feature id="org.eclipse.emf.databinding.edit.source" url="features/org.eclipse.emf.databinding.edit.source_1.7.0.v20190323-1059.jar" version="1.7.0.v20190323-1059">
+      <category name="emf"/>
+   </feature>
+   <feature id="org.eclipse.emf.databinding.source" url="features/org.eclipse.emf.databinding.source_1.7.0.v20190323-1059.jar" version="1.7.0.v20190323-1059">
+      <category name="emf"/>
+   </feature>
+   <feature id="org.eclipse.emf.doc" url="features/org.eclipse.emf.doc_2.18.0.v20190821-1536.jar" version="2.18.0.v20190821-1536">
+      <category name="emf"/>
+   </feature>
+   <feature id="org.eclipse.emf.ecore" url="features/org.eclipse.emf.ecore_2.20.0.v20190920-0401.jar" version="2.20.0.v20190920-0401">
+      <category name="emf"/>
+   </feature>
+   <feature id="org.eclipse.emf.ecore.edit" url="features/org.eclipse.emf.ecore.edit_2.14.0.v20190822-1451.jar" version="2.14.0.v20190822-1451">
+      <category name="emf"/>
+   </feature>
+   <feature id="org.eclipse.emf.ecore.edit.source" url="features/org.eclipse.emf.ecore.edit.source_2.14.0.v20190822-1451.jar" version="2.14.0.v20190822-1451">
+      <category name="emf"/>
+   </feature>
+   <feature id="org.eclipse.emf.ecore.editor" url="features/org.eclipse.emf.ecore.editor_2.17.0.v20190528-0725.jar" version="2.17.0.v20190528-0725">
+      <category name="emf"/>
+   </feature>
+   <feature id="org.eclipse.emf.ecore.editor.source" url="features/org.eclipse.emf.ecore.editor.source_2.17.0.v20190528-0725.jar" version="2.17.0.v20190528-0725">
+      <category name="emf"/>
+   </feature>
+   <feature id="org.eclipse.emf.ecore.source" url="features/org.eclipse.emf.ecore.source_2.20.0.v20190920-0401.jar" version="2.20.0.v20190920-0401">
+      <category name="emf"/>
+   </feature>
+   <feature id="org.eclipse.emf.ecore.xcore" url="features/org.eclipse.emf.ecore.xcore_1.12.0.v20190924-0817.jar" version="1.12.0.v20190924-0817">
+      <category name="xcore"/>
+   </feature>
+   <feature id="org.eclipse.emf.ecore.xcore.lib" url="features/org.eclipse.emf.ecore.xcore.lib_1.5.0.v20190401-0856.jar" version="1.5.0.v20190401-0856">
+      <category name="xcore"/>
+   </feature>
+   <feature id="org.eclipse.emf.ecore.xcore.lib.source" url="features/org.eclipse.emf.ecore.xcore.lib.source_1.5.0.v20190401-0856.jar" version="1.5.0.v20190401-0856">
+      <category name="xcore"/>
+   </feature>
+   <feature id="org.eclipse.emf.ecore.xcore.sdk" url="features/org.eclipse.emf.ecore.xcore.sdk_1.12.0.v20190924-0817.jar" version="1.12.0.v20190924-0817">
+      <category name="xcore"/>
+   </feature>
+   <feature id="org.eclipse.emf.ecore.xcore.source" url="features/org.eclipse.emf.ecore.xcore.source_1.12.0.v20190924-0817.jar" version="1.12.0.v20190924-0817">
+      <category name="xcore"/>
+   </feature>
+   <feature id="org.eclipse.emf.ecore.xcore.ui" url="features/org.eclipse.emf.ecore.xcore.ui_1.12.0.v20190924-0817.jar" version="1.12.0.v20190924-0817">
+      <category name="xcore"/>
+   </feature>
+   <feature id="org.eclipse.emf.ecore.xcore.ui.source" url="features/org.eclipse.emf.ecore.xcore.ui.source_1.12.0.v20190924-0817.jar" version="1.12.0.v20190924-0817">
+      <category name="xcore"/>
+   </feature>
+   <feature id="org.eclipse.emf.ecoretools.design" url="features/org.eclipse.emf.ecoretools.design_3.3.2.201909230743.jar" version="3.3.2.201909230743">
+      <category name="emf"/>
+   </feature>
+   <feature id="org.eclipse.emf.ecoretools.sdk" url="features/org.eclipse.emf.ecoretools.sdk_3.3.2.201909230743.jar" version="3.3.2.201909230743">
+      <category name="emf"/>
+   </feature>
+   <feature id="org.eclipse.emf.edit" url="features/org.eclipse.emf.edit_2.16.0.v20190920-0401.jar" version="2.16.0.v20190920-0401">
+      <category name="emf"/>
+   </feature>
+   <feature id="org.eclipse.emf.edit.source" url="features/org.eclipse.emf.edit.source_2.16.0.v20190920-0401.jar" version="2.16.0.v20190920-0401">
+      <category name="emf"/>
+   </feature>
+   <feature id="org.eclipse.emf.edit.ui" url="features/org.eclipse.emf.edit.ui_2.18.0.v20190920-0412.jar" version="2.18.0.v20190920-0412">
+      <category name="emf"/>
+   </feature>
+   <feature id="org.eclipse.emf.edit.ui.source" url="features/org.eclipse.emf.edit.ui.source_2.18.0.v20190920-0412.jar" version="2.18.0.v20190920-0412">
+      <category name="emf"/>
+   </feature>
+   <feature id="org.eclipse.emf.emfatic" url="features/org.eclipse.emf.emfatic_0.8.0.201507261242.jar" version="0.8.0.201507261242">
+      <category name="emf"/>
+   </feature>
+   <feature id="org.eclipse.emf.examples" url="features/org.eclipse.emf.examples_2.17.0.v20191028-0905.jar" version="2.17.0.v20191028-0905">
+      <category name="emf"/>
+   </feature>
+   <feature id="org.eclipse.emf.mapping" url="features/org.eclipse.emf.mapping_2.13.0.v20190323-1059.jar" version="2.13.0.v20190323-1059">
+      <category name="emf"/>
+   </feature>
+   <feature id="org.eclipse.emf.mapping.ecore" url="features/org.eclipse.emf.mapping.ecore_2.12.0.v20190323-1059.jar" version="2.12.0.v20190323-1059">
+      <category name="emf"/>
+   </feature>
+   <feature id="org.eclipse.emf.mapping.ecore.editor" url="features/org.eclipse.emf.mapping.ecore.editor_2.14.0.v20190528-0725.jar" version="2.14.0.v20190528-0725">
+      <category name="emf"/>
+   </feature>
+   <feature id="org.eclipse.emf.mapping.ecore.editor.source" url="features/org.eclipse.emf.mapping.ecore.editor.source_2.14.0.v20190528-0725.jar" version="2.14.0.v20190528-0725">
+      <category name="emf"/>
+   </feature>
+   <feature id="org.eclipse.emf.mapping.ecore.source" url="features/org.eclipse.emf.mapping.ecore.source_2.12.0.v20190323-1059.jar" version="2.12.0.v20190323-1059">
+      <category name="emf"/>
+   </feature>
+   <feature id="org.eclipse.emf.mapping.source" url="features/org.eclipse.emf.mapping.source_2.13.0.v20190323-1059.jar" version="2.13.0.v20190323-1059">
+      <category name="emf"/>
+   </feature>
+   <feature id="org.eclipse.emf.mapping.ui" url="features/org.eclipse.emf.mapping.ui_2.13.0.v20190323-1059.jar" version="2.13.0.v20190323-1059">
+      <category name="emf"/>
+   </feature>
+   <feature id="org.eclipse.emf.mapping.ui.source" url="features/org.eclipse.emf.mapping.ui.source_2.13.0.v20190323-1059.jar" version="2.13.0.v20190323-1059">
+      <category name="emf"/>
+   </feature>
+   <feature id="org.eclipse.emf.mwe.core.feature" url="features/org.eclipse.emf.mwe.core.feature_1.5.1.v20191121-1148.jar" version="1.5.1.v20191121-1148">
+      <category name="mwe"/>
+   </feature>
+   <feature id="org.eclipse.emf.mwe.core.feature.source" url="features/org.eclipse.emf.mwe.core.feature.source_1.5.1.v20191121-1148.jar" version="1.5.1.v20191121-1148">
+      <category name="mwe"/>
+   </feature>
+   <feature id="org.eclipse.emf.mwe.doc.feature" url="features/org.eclipse.emf.mwe.doc.feature_1.5.1.v20191121-1148.jar" version="1.5.1.v20191121-1148">
+      <category name="mwe"/>
+   </feature>
+   <feature id="org.eclipse.emf.mwe.sdk" url="features/org.eclipse.emf.mwe.sdk_1.5.1.v20191121-1148.jar" version="1.5.1.v20191121-1148">
+      <category name="mwe"/>
+   </feature>
+   <feature id="org.eclipse.emf.mwe.ui.feature" url="features/org.eclipse.emf.mwe.ui.feature_1.5.1.v20191121-1148.jar" version="1.5.1.v20191121-1148">
+      <category name="mwe"/>
+   </feature>
+   <feature id="org.eclipse.emf.mwe.ui.feature.source" url="features/org.eclipse.emf.mwe.ui.feature.source_1.5.1.v20191121-1148.jar" version="1.5.1.v20191121-1148">
+      <category name="mwe"/>
+   </feature>
+   <feature id="org.eclipse.emf.mwe2.language.sdk" url="features/org.eclipse.emf.mwe2.language.sdk_2.11.1.v20191121-1148.jar" version="2.11.1.v20191121-1148">
+      <category name="mwe2"/>
+   </feature>
+   <feature id="org.eclipse.emf.mwe2.launcher" url="features/org.eclipse.emf.mwe2.launcher_2.11.1.v20191121-1148.jar" version="2.11.1.v20191121-1148">
+      <category name="mwe2"/>
+   </feature>
+   <feature id="org.eclipse.emf.mwe2.launcher.source" url="features/org.eclipse.emf.mwe2.launcher.source_2.11.1.v20191121-1148.jar" version="2.11.1.v20191121-1148">
+      <category name="mwe2"/>
+   </feature>
+   <feature id="org.eclipse.emf.mwe2.runtime.sdk" url="features/org.eclipse.emf.mwe2.runtime.sdk_2.11.1.v20191121-1148.jar" version="2.11.1.v20191121-1148">
+      <category name="mwe2"/>
+   </feature>
+   <feature id="org.eclipse.emf.sdk" url="features/org.eclipse.emf.sdk_2.20.0.v20191028-0905.jar" version="2.20.0.v20191028-0905">
+      <category name="emf"/>
+   </feature>
+   <feature id="org.eclipse.emf.source" url="features/org.eclipse.emf.source_2.20.0.v20191028-0905.jar" version="2.20.0.v20191028-0905">
+      <category name="emf"/>
+   </feature>
+   <feature id="org.eclipse.emf.transaction" url="features/org.eclipse.emf.transaction_1.12.0.201805140824.jar" version="1.12.0.201805140824">
+      <category name="emf"/>
+   </feature>
+   <feature id="org.eclipse.emf.validation" url="features/org.eclipse.emf.validation_1.12.1.201812070911.jar" version="1.12.1.201812070911">
+      <category name="emf"/>
+   </feature>
+   <feature id="org.eclipse.emf.workspace" url="features/org.eclipse.emf.workspace_1.12.0.201805140824.jar" version="1.12.0.201805140824">
+      <category name="emf"/>
+   </feature>
+   <feature id="org.eclipse.epp.mpc" url="features/org.eclipse.epp.mpc_1.8.1.v20191106-1317.jar" version="1.8.1.v20191106-1317">
+      <category name="marketplace"/>
+   </feature>
+   <feature id="org.eclipse.epsilon.concordance.dependencies.feature" url="features/org.eclipse.epsilon.concordance.dependencies.feature_1.5.1.201809302027.jar" version="1.5.1.201809302027">
+      <category name="epsilon"/>
+   </feature>
+   <feature id="org.eclipse.epsilon.concordance.feature" url="features/org.eclipse.epsilon.concordance.feature_1.5.1.201809302027.jar" version="1.5.1.201809302027">
+      <category name="epsilon"/>
+   </feature>
+   <feature id="org.eclipse.epsilon.core.dependencies.feature" url="features/org.eclipse.epsilon.core.dependencies.feature_1.5.1.201809302027.jar" version="1.5.1.201809302027">
+      <category name="epsilon"/>
+   </feature>
+   <feature id="org.eclipse.epsilon.core.dt.feature" url="features/org.eclipse.epsilon.core.dt.feature_1.5.1.201809302027.jar" version="1.5.1.201809302027">
+      <category name="epsilon"/>
+   </feature>
+   <feature id="org.eclipse.epsilon.core.feature" url="features/org.eclipse.epsilon.core.feature_1.5.1.201809302027.jar" version="1.5.1.201809302027">
+      <category name="epsilon"/>
+   </feature>
+   <feature id="org.eclipse.epsilon.emc.graphml.feature" url="features/org.eclipse.epsilon.emc.graphml.feature_1.5.1.201809302027.jar" version="1.5.1.201809302027">
+      <category name="epsilon"/>
+   </feature>
+   <feature id="org.eclipse.epsilon.emc.spreadsheets.dependencies.feature" url="features/org.eclipse.epsilon.emc.spreadsheets.dependencies.feature_1.5.1.201809302027.jar" version="1.5.1.201809302027">
+      <category name="epsilon"/>
+   </feature>
+   <feature id="org.eclipse.epsilon.emc.spreadsheets.excel.dependencies.feature" url="features/org.eclipse.epsilon.emc.spreadsheets.excel.dependencies.feature_1.5.1.201809302027.jar" version="1.5.1.201809302027">
+      <category name="epsilon"/>
+   </feature>
+   <feature id="org.eclipse.epsilon.emc.spreadsheets.excel.feature" url="features/org.eclipse.epsilon.emc.spreadsheets.excel.feature_1.5.1.201809302027.jar" version="1.5.1.201809302027">
+      <category name="epsilon"/>
+   </feature>
+   <feature id="org.eclipse.epsilon.emc.spreadsheets.feature" url="features/org.eclipse.epsilon.emc.spreadsheets.feature_1.5.1.201809302027.jar" version="1.5.1.201809302027">
+      <category name="epsilon"/>
+   </feature>
+   <feature id="org.eclipse.epsilon.emc.spreadsheets.google.dependencies.feature" url="features/org.eclipse.epsilon.emc.spreadsheets.google.dependencies.feature_1.5.1.201809302027.jar" version="1.5.1.201809302027">
+      <category name="epsilon"/>
+   </feature>
+   <feature id="org.eclipse.epsilon.emc.spreadsheets.google.feature" url="features/org.eclipse.epsilon.emc.spreadsheets.google.feature_1.5.1.201809302027.jar" version="1.5.1.201809302027">
+      <category name="epsilon"/>
+   </feature>
+   <feature id="org.eclipse.epsilon.emf.dt.dependencies.feature" url="features/org.eclipse.epsilon.emf.dt.dependencies.feature_1.5.1.201809302027.jar" version="1.5.1.201809302027">
+      <category name="epsilon"/>
+   </feature>
+   <feature id="org.eclipse.epsilon.emf.dt.feature" url="features/org.eclipse.epsilon.emf.dt.feature_1.5.1.201809302027.jar" version="1.5.1.201809302027">
+      <category name="epsilon"/>
+   </feature>
+   <feature id="org.eclipse.epsilon.emf.feature" url="features/org.eclipse.epsilon.emf.feature_1.5.1.201809302027.jar" version="1.5.1.201809302027">
+      <category name="epsilon"/>
+   </feature>
+   <feature id="org.eclipse.epsilon.eunit.dt.emf.feature" url="features/org.eclipse.epsilon.eunit.dt.emf.feature_1.5.1.201809302027.jar" version="1.5.1.201809302027">
+      <category name="epsilon"/>
+   </feature>
+   <feature id="org.eclipse.epsilon.evl.emf.validation.feature" url="features/org.eclipse.epsilon.evl.emf.validation.feature_1.5.1.201809302027.jar" version="1.5.1.201809302027">
+      <category name="epsilon"/>
+   </feature>
+   <feature id="org.eclipse.epsilon.ewl.emf.feature" url="features/org.eclipse.epsilon.ewl.emf.feature_1.5.1.201809302027.jar" version="1.5.1.201809302027">
+      <category name="epsilon"/>
+   </feature>
+   <feature id="org.eclipse.epsilon.ewl.gmf.feature" url="features/org.eclipse.epsilon.ewl.gmf.feature_1.5.1.201809302027.jar" version="1.5.1.201809302027">
+      <category name="epsilon"/>
+   </feature>
+   <feature id="org.eclipse.epsilon.hutn.dependencies.feature" url="features/org.eclipse.epsilon.hutn.dependencies.feature_1.5.1.201809302027.jar" version="1.5.1.201809302027">
+      <category name="epsilon"/>
+   </feature>
+   <feature id="org.eclipse.epsilon.hutn.dt.feature" url="features/org.eclipse.epsilon.hutn.dt.feature_1.5.1.201809302027.jar" version="1.5.1.201809302027">
+      <category name="epsilon"/>
+   </feature>
+   <feature id="org.eclipse.epsilon.hutn.feature" url="features/org.eclipse.epsilon.hutn.feature_1.5.1.201809302027.jar" version="1.5.1.201809302027">
+      <category name="epsilon"/>
+   </feature>
+   <feature id="org.eclipse.epsilon.simulink.dt.feature" url="features/org.eclipse.epsilon.simulink.dt.feature_1.5.1.201809302027.jar" version="1.5.1.201809302027">
+      <category name="epsilon"/>
+   </feature>
+   <feature id="org.eclipse.epsilon.simulink.feature" url="features/org.eclipse.epsilon.simulink.feature_1.5.1.201809302027.jar" version="1.5.1.201809302027">
+      <category name="epsilon"/>
+   </feature>
+   <feature id="org.eclipse.epsilon.uml.dt.feature" url="features/org.eclipse.epsilon.uml.dt.feature_1.5.1.201809302027.jar" version="1.5.1.201809302027">
+      <category name="epsilon"/>
+   </feature>
+   <feature id="org.eclipse.epsilon.uml.feature" url="features/org.eclipse.epsilon.uml.feature_1.5.1.201809302027.jar" version="1.5.1.201809302027">
+      <category name="epsilon"/>
+   </feature>
+   <feature id="org.eclipse.equinox.executable" url="features/org.eclipse.equinox.executable_3.8.600.v20191014-2025.jar" version="3.8.600.v20191014-2025">
+      <category name="eclipse"/>
+   </feature>
+   <feature id="org.eclipse.equinox.p2.core.feature" url="features/org.eclipse.equinox.p2.core.feature_1.6.400.v20191120-0247.jar" version="1.6.400.v20191120-0247">
+      <category name="eclipse"/>
+   </feature>
+   <feature id="org.eclipse.equinox.p2.core.feature.source" url="features/org.eclipse.equinox.p2.core.feature.source_1.6.400.v20191120-0247.jar" version="1.6.400.v20191120-0247">
+      <category name="eclipse"/>
+   </feature>
+   <feature id="org.eclipse.equinox.p2.discovery.feature" url="features/org.eclipse.equinox.p2.discovery.feature_1.2.400.v20191014-1907.jar" version="1.2.400.v20191014-1907">
+      <category name="eclipse"/>
+   </feature>
+   <feature id="org.eclipse.equinox.p2.extras.feature" url="features/org.eclipse.equinox.p2.extras.feature_1.4.600.v20191120-0247.jar" version="1.4.600.v20191120-0247">
+      <category name="eclipse"/>
+   </feature>
+   <feature id="org.eclipse.equinox.p2.extras.feature.source" url="features/org.eclipse.equinox.p2.extras.feature.source_1.4.600.v20191120-0247.jar" version="1.4.600.v20191120-0247">
+      <category name="eclipse"/>
+   </feature>
+   <feature id="org.eclipse.equinox.p2.rcp.feature" url="features/org.eclipse.equinox.p2.rcp.feature_1.4.600.v20191120-0247.jar" version="1.4.600.v20191120-0247">
+      <category name="eclipse"/>
+   </feature>
+   <feature id="org.eclipse.equinox.p2.rcp.feature.source" url="features/org.eclipse.equinox.p2.rcp.feature.source_1.4.600.v20191120-0247.jar" version="1.4.600.v20191120-0247">
+      <category name="eclipse"/>
+   </feature>
+   <feature id="org.eclipse.equinox.p2.user.ui" url="features/org.eclipse.equinox.p2.user.ui_2.4.600.v20191120-0247.jar" version="2.4.600.v20191120-0247">
+      <category name="eclipse"/>
+   </feature>
+   <feature id="org.eclipse.equinox.p2.user.ui.source" url="features/org.eclipse.equinox.p2.user.ui.source_2.4.600.v20191120-0247.jar" version="2.4.600.v20191120-0247">
+      <category name="eclipse"/>
+   </feature>
+   <feature id="org.eclipse.gef" url="features/org.eclipse.gef_3.11.0.201606061308.jar" version="3.11.0.201606061308">
+      <category name="eclipse"/>
+   </feature>
+   <feature id="org.eclipse.gmf" url="features/org.eclipse.gmf_1.12.2.201912020813.jar" version="1.12.2.201912020813">
+      <category name="eclipse"/>
+   </feature>
+   <feature id="org.eclipse.gmf.runtime.notation" url="features/org.eclipse.gmf.runtime.notation_1.12.0.201805221301.jar" version="1.12.0.201805221301">
+      <category name="eclipse"/>
+   </feature>
+   <feature id="org.eclipse.gmf.runtime.thirdparty" url="features/org.eclipse.gmf.runtime.thirdparty_1.12.2.201912020813.jar" version="1.12.2.201912020813">
+      <category name="eclipse"/>
+   </feature>
+   <feature id="org.eclipse.help" url="features/org.eclipse.help_2.3.0.v20191210-0610.jar" version="2.3.0.v20191210-0610">
+      <category name="eclipse"/>
+   </feature>
+   <feature id="org.eclipse.help.source" url="features/org.eclipse.help.source_2.3.0.v20191210-0610.jar" version="2.3.0.v20191210-0610">
+      <category name="eclipse"/>
+   </feature>
+   <feature id="org.eclipse.jdt" url="features/org.eclipse.jdt_3.18.200.v20191210-0610.jar" version="3.18.200.v20191210-0610">
+      <category name="eclipse"/>
+   </feature>
+   <feature id="org.eclipse.jdt.source" url="features/org.eclipse.jdt.source_3.18.200.v20191210-0610.jar" version="3.18.200.v20191210-0610">
+      <category name="egit"/>
+   </feature>
+   <feature id="org.eclipse.jgit" url="features/org.eclipse.jgit_5.6.0.201912101111-r.jar" version="5.6.0.201912101111-r">
+      <category name="egit"/>
+   </feature>
+   <feature id="org.eclipse.jgit.http.apache" url="features/org.eclipse.jgit.http.apache_5.6.0.201912101111-r.jar" version="5.6.0.201912101111-r">
+      <category name="egit"/>
+   </feature>
+   <feature id="org.eclipse.jgit.lfs" url="features/org.eclipse.jgit.lfs_5.6.0.201912101111-r.jar" version="5.6.0.201912101111-r">
+      <category name="egit"/>
+   </feature>
+   <feature id="org.eclipse.jgit.ssh.apache" url="features/org.eclipse.jgit.ssh.apache_5.6.0.201912101111-r.jar" version="5.6.0.201912101111-r">
+      <category name="egit"/>
+   </feature>
+   <feature id="org.eclipse.license" url="features/org.eclipse.license_2.0.2.v20181016-2210.jar" version="2.0.2.v20181016-2210">
+      <category name="eclipse"/>
+   </feature>
+   <!--
+   <feature id="org.eclipse.linuxtools.changelog"/>
+   <feature id="org.eclipse.linuxtools.changelog.java"/>
+   <feature id="org.eclipse.linuxtools.changelog.source"/>
+   -->
+   <feature id="org.eclipse.m2e.feature" url="features/org.eclipse.m2e.feature_1.14.0.20191209-1925.jar" version="1.14.0.20191209-1925">
+      <category name="m2e"/>
+   </feature>
+   <feature id="org.eclipse.m2e.logback.feature" url="features/org.eclipse.m2e.logback.feature_1.14.0.20191209-1925.jar" version="1.14.0.20191209-1925">
+      <category name="m2e"/>
+   </feature>
+   <feature id="org.eclipse.mat.chart.feature" url="features/org.eclipse.mat.chart.feature_1.9.1.201908260659.jar" version="1.9.1.201908260659">
+      <category name="m2e"/>
+   </feature>
+   <feature id="org.eclipse.mat.feature" url="features/org.eclipse.mat.feature_1.9.1.201908260659.jar" version="1.9.1.201908260659">
+      <category name="eclipse"/>
+   </feature>
+   <feature id="org.eclipse.mylyn.commons" url="features/org.eclipse.mylyn.commons_3.24.2.v20180904-2231.jar" version="3.24.2.v20180904-2231">
+      <category name="eclipse"/>
+   </feature>
+   <feature id="org.eclipse.mylyn.commons.identity" url="features/org.eclipse.mylyn.commons.identity_1.16.0.v20180904-2231.jar" version="1.16.0.v20180904-2231">
+      <category name="eclipse"/>
+   </feature>
+   <feature id="org.eclipse.mylyn.commons.notifications" url="features/org.eclipse.mylyn.commons.notifications_1.16.0.v20180904-2231.jar" version="1.16.0.v20180904-2231">
+      <category name="eclipse"/>
+   </feature>
+   <feature id="org.eclipse.mylyn.commons.repositories" url="features/org.eclipse.mylyn.commons.repositories_1.16.0.v20180904-2231.jar" version="1.16.0.v20180904-2231">
+      <category name="eclipse"/>
+   </feature>
+   <feature id="org.eclipse.mylyn.context_feature" url="features/org.eclipse.mylyn.context_feature_3.24.2.v20180905-0014.jar" version="3.24.2.v20180905-0014">
+      <category name="eclipse"/>
+   </feature>
+   <feature id="org.eclipse.mylyn.discovery" url="features/org.eclipse.mylyn.discovery_3.24.2.v20180904-2231.jar" version="3.24.2.v20180904-2231">
+      <category name="eclipse"/>
+   </feature>
+   <feature id="org.eclipse.mylyn.monitor" url="features/org.eclipse.mylyn.monitor_3.24.2.v20180904-2231.jar" version="3.24.2.v20180904-2231">
+      <category name="eclipse"/>
+   </feature>
+   <feature id="org.eclipse.mylyn.team_feature" url="features/org.eclipse.mylyn.team_feature_3.24.2.v20180905-0014.jar" version="3.24.2.v20180905-0014">
+      <category name="eclipse"/>
+   </feature>
+   <feature id="org.eclipse.mylyn_feature" url="features/org.eclipse.mylyn_feature_3.24.2.v20180905-0003.jar" version="3.24.2.v20180905-0003">
+      <category name="eclipse"/>
+   </feature>
+   <feature id="org.eclipse.pde" url="features/org.eclipse.pde_3.14.200.v20191210-0610.jar" version="3.14.200.v20191210-0610">
+      <category name="eclipse"/>
+   </feature>
+   <feature id="org.eclipse.pde.source" url="features/org.eclipse.pde.source_3.14.200.v20191210-0610.jar" version="3.14.200.v20191210-0610">
+      <category name="eclipse"/>
+   </feature>
+   <feature id="org.eclipse.platform" url="features/org.eclipse.platform_4.14.0.v20191210-0610.jar" version="4.14.0.v20191210-0610">
+      <category name="eclipse"/>
+   </feature>
+   <feature id="org.eclipse.platform.source" url="features/org.eclipse.platform.source_4.14.0.v20191210-0610.jar" version="4.14.0.v20191210-0610">
+      <category name="eclipse"/>
+   </feature>
+   <feature id="org.eclipse.rcp" url="features/org.eclipse.rcp_4.14.0.v20191210-0610.jar" version="4.14.0.v20191210-0610">
+      <category name="eclipse"/>
+   </feature>
+   <feature id="org.eclipse.rcp.source" url="features/org.eclipse.rcp.source_4.14.0.v20191210-0610.jar" version="4.14.0.v20191210-0610">
+      <category name="eclipse"/>
+   </feature>
+   <feature id="org.eclipse.sdk" url="features/org.eclipse.sdk_4.14.0.v20191210-0610.jar" version="4.14.0.v20191210-0610">
+      <category name="eclipse"/>
+   </feature>
+   <feature id="org.eclipse.sirius.aql" url="features/org.eclipse.sirius.aql_6.3.0.201910180815.jar" version="6.3.0.201910180815">
+      <category name="sirius"/>
+   </feature>
+   <feature id="org.eclipse.sirius.aql.source" url="features/org.eclipse.sirius.aql.source_6.3.0.201910180815.jar" version="6.3.0.201910180815">
+      <category name="sirius"/>
+   </feature>
+   <feature id="org.eclipse.sirius.doc.feature" url="features/org.eclipse.sirius.doc.feature_6.3.0.201910180815.jar" version="6.3.0.201910180815">
+      <category name="sirius"/>
+   </feature>
+   <feature id="org.eclipse.sirius.doc.feature.source" url="features/org.eclipse.sirius.doc.feature.source_6.3.0.201910180815.jar" version="6.3.0.201910180815">
+      <category name="sirius"/>
+   </feature>
+   <feature id="org.eclipse.sirius.interpreter.feature" url="features/org.eclipse.sirius.interpreter.feature_6.3.0.201910180815.jar" version="6.3.0.201910180815">
+      <category name="sirius"/>
+   </feature>
+   <feature id="org.eclipse.sirius.interpreter.feature.source" url="features/org.eclipse.sirius.interpreter.feature.source_6.3.0.201910180815.jar" version="6.3.0.201910180815">
+      <category name="sirius"/>
+   </feature>
+   <feature id="org.eclipse.sirius.properties.feature" url="features/org.eclipse.sirius.properties.feature_6.3.0.201910180815.jar" version="6.3.0.201910180815">
+      <category name="sirius"/>
+   </feature>
+   <feature id="org.eclipse.sirius.properties.feature.source" url="features/org.eclipse.sirius.properties.feature.source_6.3.0.201910180815.jar" version="6.3.0.201910180815">
+      <category name="sirius"/>
+   </feature>
+   <feature id="org.eclipse.sirius.runtime" url="features/org.eclipse.sirius.runtime_6.3.0.201910180815.jar" version="6.3.0.201910180815">
+      <category name="sirius"/>
+   </feature>
+   <feature id="org.eclipse.sirius.runtime.acceleo" url="features/org.eclipse.sirius.runtime.acceleo_6.3.0.201910180815.jar" version="6.3.0.201910180815">
+      <category name="sirius"/>
+   </feature>
+   <feature id="org.eclipse.sirius.runtime.acceleo.source" url="features/org.eclipse.sirius.runtime.acceleo.source_6.3.0.201910180815.jar" version="6.3.0.201910180815">
+      <category name="sirius"/>
+   </feature>
+   <feature id="org.eclipse.sirius.runtime.aql" url="features/org.eclipse.sirius.runtime.aql_6.3.0.201910180815.jar" version="6.3.0.201910180815">
+      <category name="sirius"/>
+   </feature>
+   <feature id="org.eclipse.sirius.runtime.aql.source" url="features/org.eclipse.sirius.runtime.aql.source_6.3.0.201910180815.jar" version="6.3.0.201910180815">
+      <category name="sirius"/>
+   </feature>
+   <feature id="org.eclipse.sirius.runtime.ide.eef" url="features/org.eclipse.sirius.runtime.ide.eef_6.3.0.201910180815.jar" version="6.3.0.201910180815">
+      <category name="sirius"/>
+   </feature>
+   <feature id="org.eclipse.sirius.runtime.ide.eef.source" url="features/org.eclipse.sirius.runtime.ide.eef.source_6.3.0.201910180815.jar" version="6.3.0.201910180815">
+      <category name="sirius"/>
+   </feature>
+   <feature id="org.eclipse.sirius.runtime.ide.ui" url="features/org.eclipse.sirius.runtime.ide.ui_6.3.0.201910180815.jar" version="6.3.0.201910180815">
+      <category name="sirius"/>
+   </feature>
+   <feature id="org.eclipse.sirius.runtime.ide.ui.acceleo" url="features/org.eclipse.sirius.runtime.ide.ui.acceleo_6.3.0.201910180815.jar" version="6.3.0.201910180815">
+      <category name="sirius"/>
+   </feature>
+   <feature id="org.eclipse.sirius.runtime.ide.ui.acceleo.source" url="features/org.eclipse.sirius.runtime.ide.ui.acceleo.source_6.3.0.201910180815.jar" version="6.3.0.201910180815">
+      <category name="sirius"/>
+   </feature>
+   <feature id="org.eclipse.sirius.runtime.ide.ui.source" url="features/org.eclipse.sirius.runtime.ide.ui.source_6.3.0.201910180815.jar" version="6.3.0.201910180815">
+      <category name="sirius"/>
+   </feature>
+   <feature id="org.eclipse.sirius.runtime.ide.xtext" url="features/org.eclipse.sirius.runtime.ide.xtext_6.3.0.201910180815.jar" version="6.3.0.201910180815">
+      <category name="sirius"/>
+   </feature>
+   <feature id="org.eclipse.sirius.runtime.ide.xtext.source" url="features/org.eclipse.sirius.runtime.ide.xtext.source_6.3.0.201910180815.jar" version="6.3.0.201910180815">
+      <category name="sirius"/>
+   </feature>
+   <feature id="org.eclipse.sirius.runtime.ocl" url="features/org.eclipse.sirius.runtime.ocl_6.3.0.201910180815.jar" version="6.3.0.201910180815">
+      <category name="sirius"/>
+   </feature>
+   <feature id="org.eclipse.sirius.runtime.ocl.source" url="features/org.eclipse.sirius.runtime.ocl.source_6.3.0.201910180815.jar" version="6.3.0.201910180815">
+      <category name="sirius"/>
+   </feature>
+   <feature id="org.eclipse.sirius.runtime.source" url="features/org.eclipse.sirius.runtime.source_6.3.0.201910180815.jar" version="6.3.0.201910180815">
+      <category name="sirius"/>
+   </feature>
+   <feature id="org.eclipse.sirius.samples" url="features/org.eclipse.sirius.samples_6.3.0.201910180815.jar" version="6.3.0.201910180815">
+      <category name="sirius"/>
+   </feature>
+   <feature id="org.eclipse.sirius.samples.properties.feature" url="features/org.eclipse.sirius.samples.properties.feature_6.3.0.201910180815.jar" version="6.3.0.201910180815">
+      <category name="sirius"/>
+   </feature>
+   <feature id="org.eclipse.sirius.samples.properties.feature.source" url="features/org.eclipse.sirius.samples.properties.feature.source_6.3.0.201910180815.jar" version="6.3.0.201910180815">
+      <category name="sirius"/>
+   </feature>
+   <feature id="org.eclipse.sirius.samples.source" url="features/org.eclipse.sirius.samples.source_6.3.0.201910180815.jar" version="6.3.0.201910180815">
+      <category name="sirius"/>
+   </feature>
+   <feature id="org.eclipse.sirius.specifier" url="features/org.eclipse.sirius.specifier_6.3.0.201910180815.jar" version="6.3.0.201910180815">
+      <category name="sirius"/>
+   </feature>
+   <feature id="org.eclipse.sirius.specifier.ide.ui" url="features/org.eclipse.sirius.specifier.ide.ui_6.3.0.201910180815.jar" version="6.3.0.201910180815">
+      <category name="sirius"/>
+   </feature>
+   <feature id="org.eclipse.sirius.specifier.ide.ui.acceleo" url="features/org.eclipse.sirius.specifier.ide.ui.acceleo_6.3.0.201910180815.jar" version="6.3.0.201910180815">
+      <category name="sirius"/>
+   </feature>
+   <feature id="org.eclipse.sirius.specifier.ide.ui.acceleo.source" url="features/org.eclipse.sirius.specifier.ide.ui.acceleo.source_6.3.0.201910180815.jar" version="6.3.0.201910180815">
+      <category name="sirius"/>
+   </feature>
+   <feature id="org.eclipse.sirius.specifier.ide.ui.aql" url="features/org.eclipse.sirius.specifier.ide.ui.aql_6.3.0.201910180815.jar" version="6.3.0.201910180815">
+      <category name="sirius"/>
+   </feature>
+   <feature id="org.eclipse.sirius.specifier.ide.ui.aql.source" url="features/org.eclipse.sirius.specifier.ide.ui.aql.source_6.3.0.201910180815.jar" version="6.3.0.201910180815">
+      <category name="sirius"/>
+   </feature>
+   <feature id="org.eclipse.sirius.specifier.ide.ui.source" url="features/org.eclipse.sirius.specifier.ide.ui.source_6.3.0.201910180815.jar" version="6.3.0.201910180815">
+      <category name="sirius"/>
+   </feature>
+   <feature id="org.eclipse.sirius.specifier.properties.feature" url="features/org.eclipse.sirius.specifier.properties.feature_6.3.0.201910180815.jar" version="6.3.0.201910180815">
+      <category name="sirius"/>
+   </feature>
+   <feature id="org.eclipse.sirius.specifier.properties.feature.source" url="features/org.eclipse.sirius.specifier.properties.feature.source_6.3.0.201910180815.jar" version="6.3.0.201910180815">
+      <category name="sirius"/>
+   </feature>
+   <feature id="org.eclipse.sirius.specifier.source" url="features/org.eclipse.sirius.specifier.source_6.3.0.201910180815.jar" version="6.3.0.201910180815">
+      <category name="sirius"/>
+   </feature>
+   <feature id="org.eclipse.userstorage" url="features/org.eclipse.userstorage_1.2.0.v20191120-1614.jar" version="1.2.0.v20191120-1614">
+      <category name="eclipse"/>
+   </feature>
+   <feature id="org.eclipse.xtend.sdk" url="features/org.eclipse.xtend.sdk_2.20.0.v20191202-1256.jar" version="2.20.0.v20191202-1256">
+      <category name="xtend"/>
+   </feature>
+   <feature id="org.eclipse.xtext.docs" url="features/org.eclipse.xtext.docs_2.20.0.v20191202-1256.jar" version="2.20.0.v20191202-1256">
+      <category name="xtext"/>
+   </feature>
+   <feature id="org.eclipse.xtext.examples" url="features/org.eclipse.xtext.examples_2.20.0.v20191202-1256.jar" version="2.20.0.v20191202-1256">
+      <category name="xtext"/>
+   </feature>
+   <feature id="org.eclipse.xtext.redist" url="features/org.eclipse.xtext.redist_2.20.0.v20191202-1256.jar" version="2.20.0.v20191202-1256">
+      <category name="xtext"/>
+   </feature>
+   <feature id="org.eclipse.xtext.runtime" url="features/org.eclipse.xtext.runtime_2.20.0.v20191202-1256.jar" version="2.20.0.v20191202-1256">
+      <category name="xtext"/>
+   </feature>
+   <feature id="org.eclipse.xtext.sdk" url="features/org.eclipse.xtext.sdk_2.20.0.v20191202-1256.jar" version="2.20.0.v20191202-1256">
+      <category name="xtext"/>
+   </feature>
+   <feature id="org.eclipse.xtext.ui" url="features/org.eclipse.xtext.ui_2.20.0.v20191202-1256.jar" version="2.20.0.v20191202-1256">
+      <category name="xtext"/>
+   </feature>
+   <feature id="org.eclipse.xtext.xbase" url="features/org.eclipse.xtext.xbase_2.20.0.v20191202-1256.jar" version="2.20.0.v20191202-1256">
+      <category name="xtext"/>
+   </feature>
+   <feature id="org.eclipse.xtext.xbase.lib" url="features/org.eclipse.xtext.xbase.lib_2.20.0.v20191202-0910.jar" version="2.20.0.v20191202-0910">
+      <category name="xtext"/>
+   </feature>
+   <feature id="org.eclipse.xtext.xtext.ui" url="features/org.eclipse.xtext.xtext.ui_2.20.0.v20191202-1256.jar" version="2.20.0.v20191202-1256">
+      <category name="xtext"/>
+   </feature>
+   <feature id="org.eclipse.xtext.xtext.ui.graph" url="features/org.eclipse.xtext.xtext.ui.graph_2.20.0.v20191202-1256.jar" version="2.20.0.v20191202-1256">
+      <category name="xtext"/>
+   </feature>
+   <category-def name="epp-common" label="Judo Common EPP">
+      <description>
+         Judo Common Eclipse Packaging Project
+      </description>
+   </category-def>
+   <category-def name="asciidoctor" label="Asciidoctor"/>
+   <category-def name="m2e" label="M2E"/>
+   <category-def name="acceleo" label="Acceleo"/>
+   <category-def name="eclipse" label="Eclipse"/>
+   <category-def name="e4" label="E4"/>
+   <category-def name="ecf" label="ECF"/>
+   <category-def name="eef" label="Eef"/>
+   <category-def name="egit" label="EGit"/>
+   <category-def name="emf" label="EMF"/>
+   <category-def name="xcore" label="XCore"/>
+   <category-def name="mwe" label="MWE"/>
+   <category-def name="mwe2" label="MWE2"/>
+   <category-def name="marketplace" label="Marketplace"/>
+   <category-def name="epsilon" label="epsilon"/>
+   <category-def name="sirius" label="sirius"/>
+   <category-def name="xtext" label="XText"/>
+   <category-def name="xtend" label="XText"/>
+
+</site>

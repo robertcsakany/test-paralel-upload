@@ -1,0 +1,19 @@
+box: maven:3.5.4-jdk-8
+no-response-timeout: 15
+command-timeout: 60
+ignore-file: .gitignore
+
+build:
+  steps:	
+    - script:
+      name: calculate version number
+      code: |-
+        export VERSION_NUMBER=$(date +%Y%m%d_%H%M%S)
+        echo "Building version: ${VERSION_NUMBER}"
+      
+    - blackbelttechnology/parallel-upload@1.0.0:
+      url:      "${JUDONG_P2_UPSTREAM}/judo-epp-common/${VERSION_NUMBER}"
+      path:     "contents"
+      username: "${JUDONG_NEXUS_USERNAME}"
+      password: "${JUDONG_NEXUS_PASSWORD}"
+      proc:     "6"
