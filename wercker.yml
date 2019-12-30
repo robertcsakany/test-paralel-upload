@@ -11,9 +11,9 @@ build:
         export VERSION_NUMBER=$(date +%Y%m%d_%H%M%S)
         echo "Building version: ${VERSION_NUMBER}"
       
-    - blackbelttechnology/parallel-upload@1.0.0:
-      url:      "${JUDONG_P2_UPSTREAM}/judo-epp-common/${VERSION_NUMBER}"
+    - blackbelttechnology/parallel-upload@1.0.1:
+      url:      ${JUDONG_P2_UPSTREAM}/test-upload/${VERSION_NUMBER}
       path:     "contents"
-      username: "${JUDONG_NEXUS_USERNAME}"
-      password: "${JUDONG_NEXUS_PASSWORD}"
+      username: ${JUDONG_NEXUS_USERNAME}
+      password: ${JUDONG_NEXUS_PASSWORD}
       proc:     "6"
