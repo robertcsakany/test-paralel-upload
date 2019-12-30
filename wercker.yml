@@ -13,7 +13,7 @@ build:
       
     - blackbelttechnology/parallel-upload@1.0.1:
       url:      ${JUDONG_P2_UPSTREAM}/test-upload/${VERSION_NUMBER}
-      path:     "contents"
+      path:     ${WERCKER_SOURCE_DIR}/contents
       username: ${JUDONG_NEXUS_USERNAME}
       password: ${JUDONG_NEXUS_PASSWORD}
       proc:     "6"
